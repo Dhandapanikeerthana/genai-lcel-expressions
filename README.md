@@ -1,5 +1,5 @@
-Name: Keerthana D
-Reg No: 212224040155
+## Name: Keerthana D
+## Reg No: 212224040155
 
 ## Design and Implementation of LangChain Expression Language (LCEL) Expressions
 
@@ -94,18 +94,19 @@ inputs.invoke({"question": "what is the full form of LCEL?"})
 ```
 
 ### OUTPUT:
+
 <img width="1227" height="232" alt="Screenshot 2026-05-11 162137" src="https://github.com/user-attachments/assets/5a2dca91-b408-4985-ae96-caa68d4b6f21" />
 
-
-
+<br><br>
 <img width="1230" height="107" alt="Screenshot 2026-05-11 162153" src="https://github.com/user-attachments/assets/02e7d118-e6d4-49e7-adf5-4ba6d41711bc" />
 
-
+<br><br>
 <img width="357" height="47" alt="Screenshot 2026-05-11 162207" src="https://github.com/user-attachments/assets/9f70a65f-7909-4501-8053-5e35c6df701f" />
 
-
+<br><br>
 <img width="1317" height="122" alt="Screenshot 2026-05-11 162223" src="https://github.com/user-attachments/assets/c2e60bdf-e4eb-4e0e-8f33-ee119e1bdd36" />
 
 
 
 ### RESULT:
+Thus, the LangChain Expression Language (LCEL) expression that utilizes two prompt parameters and three key components (prompt, model, and output parser) was designed and implemented successfully. And also evaluated its functionality by analyzing relevant examples of its application in real-world scenarios.
